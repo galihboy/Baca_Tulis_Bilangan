@@ -29,7 +29,7 @@ Hasil eksekusi file **baca_bilangan_loop.py** versi console adalah seperti conto
 
 Screenshot hasil eksekusi file **Baca_Bilangan_GUI.py** (menggunakan PyQt)
 
-![Baca Bilangan](/Baca_Bilangan/gambar_baca_bilangan.jpg)
+![Baca Bilangan](gambar_baca_bilangan.jpg)
 
 ---
 
