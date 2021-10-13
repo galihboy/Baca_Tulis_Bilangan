@@ -56,3 +56,13 @@ Kalimat: dua belas juta seratus lima puluh empat ribu lima belas
 Total nilai:  12154015
 Total nilai (lokal): 12.154.015
 ```
+---
+
+#### 3. Baca dan Tulis Lambang Bilangan - GUI
+
+Aplikasi GUI ini dapat melakukan baca dan tulis lambang bilangan sekaligus.
+Req: PyQt
+
+Tampilan hasil eksekusi file **Baca_Tulis_Bilangan_GUI.py** 
+
+![Baca dan Tulis Bilangan](baca_tulis.gif)
