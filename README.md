@@ -66,4 +66,4 @@ Requirement: PyQt
 
 Tampilan hasil eksekusi file **Baca_Tulis_Bilangan_GUI.py** 
 
-![Baca dan Tulis Bilangan]("baca tulis lambang.gif")
+![Baca dan Tulis Bilangan](baca_tulis_lambang.gif)
