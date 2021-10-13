@@ -37,7 +37,7 @@ Screenshot hasil eksekusi file **Baca_Bilangan_GUI.py** (menggunakan PyQt)
 
 Tutorial langkah per langkah untuk menulis lambang bilangan ada di [blog](https://masgalih.medium.com/menerjemahkan-teks-bilangan-dalam-python-untuk-pemula-416b3e645e68).
 
-File **baca_teks_angka_v4_loop.py** dapat membaca teks bilangan dan menerjemahkan ke bentuk angka.
+File **tulis_bilangan_v4_loop.py** dapat membaca teks bilangan dan menerjemahkan ke bentuk angka.
 Contoh luaran program adalah sebagai berikut.
 ```
 Kalimat: sebelas ribu
