@@ -61,7 +61,8 @@ Total nilai (lokal): 12.154.015
 #### 3. Baca dan Tulis Lambang Bilangan - GUI
 
 Aplikasi GUI ini dapat melakukan baca dan tulis lambang bilangan sekaligus.
-Req: PyQt
+
+Requirement: PyQt
 
 Tampilan hasil eksekusi file **Baca_Tulis_Bilangan_GUI.py** 
 
