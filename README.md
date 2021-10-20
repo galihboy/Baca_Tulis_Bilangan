@@ -3,6 +3,7 @@
 ---
 
 Kode di folder ini digunakan untuk membaca dan menulis lambang bilangan. 
+Demo online ada di https://galihboy.github.io/mini_projects/
 
 #### 1. Membaca Lambang Bilangan
 Tutorial langkah per langkah membaca bilangan ada di [blog](https://masgalih.medium.com/membaca-lambang-bilangan-dalam-python-secara-bertahap-be50279d8538).
