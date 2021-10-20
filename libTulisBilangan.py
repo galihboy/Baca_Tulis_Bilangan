@@ -29,6 +29,7 @@ def CekKalimat(kalimat):
     
 # fungsi untuk merapikan kalimat berdasarkan data alias
 def KalimatBaru(kalimat):
+    kalimat = kalimat.strip().lower()
     lstKalimat = kalimat.split()
     lstKalimat = [kamusAlias[x] if x in kamusAlias else x for x in lstKalimat]
     kalimatBaru = " ".join(lstKalimat)
@@ -147,7 +148,7 @@ if __name__ == "__main__":
     #kalimat_asli = "sebelas ribu sebelas"
     #kalimat_asli = "seratus enam puluh dua ribu tiga ratus dua puluh satu"
     #kalimat_asli = "tiga ratus dua belas"
-    #kalimat_asli = "seribu lima ratus lima"
+    kalimat_asli = "SEribu lima ratus lima"
     #kalimat_asli = "seratus ribu lima ratus"
     
     # rapikan kalimat - cek kamus alias

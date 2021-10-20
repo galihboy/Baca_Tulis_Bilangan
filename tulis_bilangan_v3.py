@@ -21,6 +21,7 @@ def CekSintaks(ekspresi):
 
 # fungsi untuk merapikan kalimat berdasarkan data alias
 def KalimatBaru(kalimat):
+    kalimat = kalimat.strip().lower()
     lstKalimat = kalimat.split()
     lstKalimat = [kamusAlias[x] if x in kamusAlias else x for x in lstKalimat]
     kalimatBaru = " ".join(lstKalimat)
